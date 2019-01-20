@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "This is a Example of Script"
-echo "This is a Paramter $PASSED"
+echo "This is a Example of GIT Script"
 NUM=$(($FIRSTNO + $SECONDNO))
 echo "$NUM"
+echo "This is Done!"
