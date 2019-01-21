@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Start"
 echo "This is a Example of GIT Commit Script"
 NUM=$(($FIRSTNO + $SECONDNO))
 echo "$NUM"
